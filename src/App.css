@@ -1,0 +1,21 @@
+/* App.css */
+.app {
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;          
+  text-align: center;
+  padding: 50px;
+  width: 100%;
+  margin-left: 380px;
+  border: 1px solid;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
